@@ -7,10 +7,10 @@ In 2018, **humankind has a problem- most ideas never see the light of day**, due
 My plan (or proposed solution) is simple. Most people, due to their nature, enjoy an abundance of ideas, but they never ship them, for various reasons: whether they are too self-doubting, or over-perfectionist or if they give up after 90% of the work is already finished. Therefore, **my plan is to try out all of my ideas by shipping them.**
 
 The definition of a startup that I will use for this experiment will be taken from Paul Graham and Pieter Levels, but slightly modified.
-	- Paul Graham writes in Growth that:
-		*"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth."*
-	- Pieter Levels argues that:
-		*"A startup delivers a new product and grows it fast"*
+
+Paul Graham writes in Growth that *"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth."*
+		
+Pieter Levels argues that *"A startup delivers a new product and grows it fast"*
 Therefore, my idea could be said to be a startup if it ships a new product and experiences any sort of user growth.
 
 The table of contents is accessible below:
