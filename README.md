@@ -11,6 +11,7 @@ The definition of a startup that I will use for this experiment will be taken fr
 Paul Graham writes in Growth that *"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth."*
 		
 Pieter Levels argues that *"A startup delivers a new product and grows it fast"*
+
 Therefore, my idea could be said to be a startup if it ships a new product and experiences any sort of user growth.
 
 The table of contents is accessible below:
